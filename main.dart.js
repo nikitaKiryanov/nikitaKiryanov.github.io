@@ -82875,7 +82875,7 @@ A.ZP.prototype={
 $0(){var s=0,r=A.S(t.H),q=this,p,o
 var $async$$0=A.T(function(a,b){if(a===1)return A.P(b,r)
 while(true)switch(s){case 0:p=q.a.c
-o="https://5ld9zv59x1.execute-api.eu-west-1.amazonaws.com/track/redirect?url="+A.ES(B.Ff,p.f7("URL"),B.R,!1)+"&provider="+p.f7("PROVIDER")
+o="https://5ld9zv59x1.execute-api.eu-west-1.amazonaws.com/track/redirect?url="+A.ES(B.Ff,p.f7("URL"),B.R,!1)+"&provider="+p.f7("PROVIDER")+"&source=UI"
 s=2
 return A.a0(A.Y_(A.dU(o,0,null)),$async$$0)
 case 2:if(!b)throw A.c(A.c_("Could not launch "+o))
