@@ -83484,7 +83484,7 @@ A.o8.prototype={
 E(a){var s=this,r=null,q=s.d
 return A.cg(A.b([A.ba(""+(s.e+1)+") ",r,r,r,r,r,r),A.ba("Pending "+q.b+": ",r,r,r,r,r,r),s.a9V(q),A.f4(B.Pq,new A.a3D(s),r)],t.p),B.n,B.D,B.u)},
 a9V(a){var s=null
-switch(a.b){case"telegram":return A.cg(A.b([B.PC,new A.zY("telegramActivation"+a.a,s),B.Pu,A.ks(!1,!0,B.PI,s,!0,s,s,s,s,s,s,s,s,s,new A.a3C(),s,s,s,s,s,s,s),B.PG],t.p),B.n,B.D,B.u)
+switch(a.b){case"telegram":return A.cg(A.b([B.PC,new A.zY("/activate "+a.a,s),B.Pu,A.ks(!1,!0,B.PI,s,!0,s,s,s,s,s,s,s,s,s,new A.a3C(),s,s,s,s,s,s,s),B.PG],t.p),B.n,B.D,B.u)
 default:return B.ly}}}
 A.a3D.prototype={
 $0(){var s=this.a
