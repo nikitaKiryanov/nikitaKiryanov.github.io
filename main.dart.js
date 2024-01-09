@@ -83506,7 +83506,7 @@ E(a){var s=this,r=null,q=s.d
 return A.c8(A.b([A.b8(""+(s.e+1)+") ",r,r,r,r,r,r),A.b8("Pending "+q.b+": ",r,r,r,r,r,r),s.a9V(q),A.f4(B.Pt,new A.a3F(s),r)],t.p),B.n,B.z,B.t)},
 a9V(a){var s=null
 switch(a.b){case"telegram":return A.c8(A.b([B.xU,A.ax5("/activate "+a.a),B.xT,A.ie(!1,!0,B.PL,s,!0,s,s,s,s,s,s,s,s,s,new A.a3D(),s,s,s,s,s,s,s),B.PJ],t.p),B.n,B.z,B.t)
-case"whatsapp":return A.c8(A.b([B.xU,A.ax5("/activate "+a.a),B.xT,A.ie(!1,!0,B.Ps,s,!0,s,s,s,s,s,s,s,s,s,new A.a3E(),s,s,s,s,s,s,s),B.PF],t.p),B.n,B.z,B.t)
+case"whatsapp":return A.c8(A.b([B.xU,A.ax5("/activate "+a.a),B.xT,A.ie(!1,!0,B.Ps,s,!0,s,s,s,s,s,s,s,s,s,new A.a3E(),s,s,s,s,s,s,s),B.PG],t.p),B.n,B.z,B.t)
 default:return B.ly}}}
 A.a3F.prototype={
 $0(){var s=this.a
@@ -83527,7 +83527,7 @@ A.a3E.prototype={
 $0(){var s=0,r=A.R(t.H),q
 var $async$$0=A.S(function(a,b){if(a===1)return A.O(b,r)
 while(true)switch(s){case 0:s=3
-return A.a_(A.vl(A.dl("https://wa.me/",0,null)),$async$$0)
+return A.a_(A.vl(A.dl("https://wa.me/48503603456",0,null)),$async$$0)
 case 3:q=b
 s=1
 break
@@ -83549,7 +83549,7 @@ r=t.p
 s=A.c8(A.b([m,s,A.f4(A.b8(n==="ACTIVE"?"Deactivate":"Activate",o,o,o,o,o,o),new A.alE(p),o)],r),B.n,B.z,B.t)
 m=p.a.w.a.e
 q=A.a8(m).i("a2<1,ny>")
-return A.dw(A.b([s,B.Jy,A.dw(A.a5(new A.a2(m,new A.alF(),q),!0,q.i("aw.E")),B.n,B.z,B.t),B.Jx,A.dw(p.a3E(p.a.w),B.n,B.z,B.t),A.c8(A.b([A.f4(B.PG,new A.alG(p),o)],r),B.n,B.z,B.t),A.c8(A.b([A.f4(B.PA,new A.alH(p),o)],r),B.n,B.z,B.t),B.PB],r),B.n,B.z,B.t)},
+return A.dw(A.b([s,B.Jy,A.dw(A.a5(new A.a2(m,new A.alF(),q),!0,q.i("aw.E")),B.n,B.z,B.t),B.Jx,A.dw(p.a3E(p.a.w),B.n,B.z,B.t),A.c8(A.b([A.f4(B.PF,new A.alG(p),o)],r),B.n,B.z,B.t),A.c8(A.b([A.f4(B.PA,new A.alH(p),o)],r),B.n,B.z,B.t),B.PB],r),B.n,B.z,B.t)},
 a3E(a){var s=this,r=A.ark(s.a.w.a.f,new A.alC(s),t.pU,t.zj),q=A.ark(s.a.w.b,new A.alD(s,r),t.K1,t.TE),p=A.ew(r,!0,t.l)
 B.b.O(p,q)
 return p}}
@@ -89631,8 +89631,8 @@ B.PC=new A.ch("Telegram notifications to ",null,null,null,null,null,null,null,nu
 B.PD=new A.ch("Reload",null,B.xS,null,null,null,null,null,null)
 B.PE=new A.ch("Logout",null,null,null,null,null,null,null,null)
 B.xU=new A.ch('Send "',null,null,null,null,null,null,null,null)
-B.PF=new A.ch('" whatsapp chat (phone: +)',null,null,null,null,null,null,null,null)
-B.PG=new A.ch("Add Handler",null,null,null,null,null,null,null,null)
+B.PF=new A.ch("Add Handler",null,null,null,null,null,null,null,null)
+B.PG=new A.ch('" whatsapp chat (phone: +48503603456)',null,null,null,null,null,null,null,null)
 B.PH=new A.ch("Remove Handler",null,null,null,null,null,null,null,null)
 B.PJ=new A.ch('" telegram bot',null,null,null,null,null,null,null,null)
 B.PL=new A.ch("upkeeper_car_bot",null,null,null,null,null,null,null,null)
